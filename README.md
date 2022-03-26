@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning as much as I possibly can
 - 💞️ I’m looking to collaborate on connecting talents across Asia 
 - 📫 How to reach me +84 965 835 235
+- [LinkedIn](https://www.linkedin.com/in/tdtl/) 
+- [Facebook](https://www.facebook.com/tdtl98/)
+- [Spiderum](https://spiderum.com/nguoi-dung/_justlyly_)
 
 <!---
 lillylyly/lillylyly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
