@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 - Engineer ở Việt Nam thì task tương tự như Engineer MS ở tất cả các nơi trên thế giới
 - Làm cùng teammate Trung Quốc, dự án M365 
 - Phỏng vấn 4 vòng bằng tiếng Anh, các vòng đều có Data & Algorithms.
+
 ✨ Phúc lợi:
 - Văn phòng đẹp đối diện Dinh Độc Lập, có cà phê bánh sữa trái cây phủ phê
 - Bảo hiểm full lương
