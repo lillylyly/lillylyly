@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - Phỏng vấn 4 vòng bằng tiếng Anh, các vòng đều có Data & Algorithms.
 
 ✨ Phúc lợi:
-- Văn phòng đẹp đối diện Dinh Độc Lập, có cà phê bánh sữa trái cây phủ phê
+- Văn phòng 93 Nguyễn Du Quận 1, có cà phê bánh sữa trái cây refill.
 - Bảo hiểm full lương
 - Bảo hiểm sức khỏe Generali cho bản thân & vợ/ chồng
 - Thưởng On-hire Stock (đợt 1 1 năm vest 1 lần, sau đó 1 quý 1 lần)
